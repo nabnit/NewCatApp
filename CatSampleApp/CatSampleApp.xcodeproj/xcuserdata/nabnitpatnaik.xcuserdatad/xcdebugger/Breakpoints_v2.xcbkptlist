@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A1A2C78-2B23-4F15-AD5B-EB719F5BB3F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15878804-415A-409C-B922-68CDF86263A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleAppTests/CatImageTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "15878804-415A-409C-B922-68CDF86263A7 - 71ac8f8753c721bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockImageNetworkProvider.performRequest(url: Foundation.URL, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatImageTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "15878804-415A-409C-B922-68CDF86263A7 - 71ac8f8753c721dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockImageNetworkProvider.performRequest(url: Foundation.URL, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatImageTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "978BFC2A-F609-4EA4-9566-8E4A4FB87549"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleApp/CatImageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchCatImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF812762-AE89-4A57-A421-482B39FF7BE0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECD01AAF-FE5B-41E3-98C4-DA39CF6689DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleApp/CatDescriptionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchCatDescription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3492AF5-9152-4D30-8926-852FA60B7102"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleApp/CatDescriptionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchCatDescription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F61CA117-D4C3-472E-9C3B-BC0D00580D32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleApp/CatDescriptionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchCatDescription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatSampleAppTests/CatSampleAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 4ae2dea3fdf291d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockSchoolListViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 4ae2dea3fdf29131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockSchoolListViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 4ae2dea3fdf29110"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockSchoolListViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 702a4f375004dd05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockCatViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 702a4f375004dd62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockCatViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 702a4f375004d2df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockCatViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "488333ED-3899-4EEA-ACCD-3E8E77B2B2DA - 702a4f375004d2fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatSampleAppTests.MockCatViewController.updateUI() -&gt; ()"
+                  moduleName = "CatSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/CatSampleApp/CatSampleAppTests/CatSampleAppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
